@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.lw {
+	font-size: 20px;
+}
+
+.paciente-invalido {
+	color: red;
+}
+
+.erros {
+	color: red;
+}
+
+.zerar {
+	color: black;
+}
+
+.invisivel {
+	display: none;
+}
+
+.div-mestre {
+	width: 600px";
+	
+}
+
+.table{
+	width: 700px;	
+}
+
+.apagarDevagar{
+	opacity: 0;
+	transition: 0.8s;
+}
+
+.aparecerDevagar{
+	opacity: 100;
+	transition: 0.8s;
+}
+
+#formulario{
+	width: 700px;
+}
+
+
+
+
+
+
