@@ -15,12 +15,13 @@ import br.com.hoiama.curriculos.model.entity.Formacao;
 @EntityScan(basePackageClasses = {Formacao.class})
 @EnableJpaRepositories("br.com.hoiama.curriculos.model.repository")
 @ComponentScan(basePackages= {"br.com.hoiama.curriculos"})
-@EnableCaching
+@EnableCachingDeliveryConfigServerApplication
+@EnableConfigServer
 @SpringBootApplication
-public class StartSpring {
+public class DeliveryConfigServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StartSpring.class, args);
+		SpringApplication.run(DeliveryConfigServerApplication.class, args);
 	}
 	
 	@Bean
