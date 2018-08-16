@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efac8018-ae71-422e-81bd-eb12bb92cb8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.9/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.springBeans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/controller/ControllerDashBoardRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/controller/ControllerDashboardGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/controller/ControllerDashboardPost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/main/DeliveryConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/model/entity/Curriculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/model/entity/Curso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/model/entity/Experiencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/model/entity/Formacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/model/entity/Resumo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/model/repository/CursoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/regras/RegraNegocio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/java/br/com/hoiama/curriculos/testes/TesteCurriculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/old.application.properties.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/css/curriculo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/css/layoutCurriculo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/css/testes/testes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/framework/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Curso10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Curso5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Curso6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Curso7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Curso8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Curso9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Empresa3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Empresa4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Empresa5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Formacao1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Formacao2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Formacao3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/Formacao4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/curriculo_foto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/imagens/curriculo_titulo_fundo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/javascript/curriculo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/javascript/dashboard-formulario-principal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/javascript/testes/deletarLinhasTabela.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/javascript/testes/gerarIMC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/javascript/testes/principal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/static/javascript/testes/validadorDadosTabela.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/templates/Dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/templates/DashboardAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/templates/DashboardFormulario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/src/main/resources/templates/Teste.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/SpringTeste-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/SpringTeste-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/META-INF/maven/br.com.hoiama/SpringTeste/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/META-INF/maven/br.com.hoiama/SpringTeste/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/controller/ControllerDashBoardRest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/controller/ControllerDashboardGet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/controller/ControllerDashboardPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/main/StartSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/model/entity/Curriculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/model/entity/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/model/entity/Experiencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/model/entity/Formacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/model/entity/Resumo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/model/repository/CursoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/regras/RegraNegocio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/br/com/hoiama/curriculos/testes/TesteCurriculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/css/curriculo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/css/layoutCurriculo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/css/testes/testes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/framework/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Curso10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Curso5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Curso6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Curso7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Curso8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Curso9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Empresa3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Empresa4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Empresa5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Formacao1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Formacao2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Formacao3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/Formacao4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/curriculo_foto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/imagens/curriculo_titulo_fundo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/javascript/curriculo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/javascript/dashboard-formulario-principal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/javascript/testes/deletarLinhasTabela.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/javascript/testes/gerarIMC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/javascript/testes/principal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/static/javascript/testes/validadorDadosTabela.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/templates/Dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/templates/DashboardAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/templates/DashboardFormulario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/classes/templates/testes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springBoot/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="851984692">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/delivery-eureka-server.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../springBoot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Rep_Emp_CWI/GPA/gpa-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Rep_Emp_CWI/GPA/gpa-backend/microservices" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Rep_Emp_CWI/GPA/gpa-backend/microservices/java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../git/Rep_Aula_Angular1/angular1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="50" />
+    <option name="y" value="319" />
+    <option name="width" value="1220" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>JVM languages</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="delivery-configs-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="delivery-configs-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efac8018-ae71-422e-81bd-eb12bb92cb8e" name="Default Changelist" comment="" />
+      <created>1534434188666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534434188666</updated>
+      <workItem from="1534434190061" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="50" y="319" width="1220" height="705" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="simpleUML" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957411" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/delivery-eureka-server.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
