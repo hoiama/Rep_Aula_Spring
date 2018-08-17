@@ -21,8 +21,7 @@ import com.coderef.delivery.domain.Authorities;
 
 @Configuration
 @EnableAuthorizationServer
-public class AuthorizationServerConfiguration extends
-        AuthorizationServerConfigurerAdapter {
+public class AuthorizationServerConfiguration extends AuthorizationServerConfigurerAdapter {
 
     private static PasswordEncoder encoder;
 
@@ -51,17 +50,27 @@ public class AuthorizationServerConfiguration extends
     @Qualifier("authenticationManagerBean")
     private AuthenticationManager authenticationManager;
 
+
     @Bean
     public JdbcTokenStore tokenStore() {
         return new JdbcTokenStore(dataSource);
     }
 
+    /**
+     * Define o gerenciador de autenticação do AuthorizationEndpoint
+     * @param endpoints
+     * @throws Exception
+     */
     @Override
-    public void configure(AuthorizationServerEndpointsConfigurer endpoints)
-            throws Exception {
+    public void configure(AuthorizationServerEndpointsConfigurer endpoints) throws Exception {
         endpoints.authenticationManager(this.authenticationManager).tokenStore(tokenStore());
     }
 
+    /**
+     * Registra um Client, segundo as configurações que definimos
+     * @param clients
+     * @throws Exception
+     */
     @Override
     public void configure(ClientDetailsServiceConfigurer clients) throws Exception {
         clients.jdbc(dataSource)
