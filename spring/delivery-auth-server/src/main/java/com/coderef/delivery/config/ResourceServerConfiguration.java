@@ -10,7 +10,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Res
 
 
 @Configuration
-@EnableResourceServer
+@EnableResourceServer //habilita um FilterSpring Security que autentica as requisições com base no token OAuth2 recebido.
 public class ResourceServerConfiguration extends ResourceServerConfigurerAdapter {
 	
 	@Value("${security.oauth2.client.resource-ids}")

@@ -23,6 +23,13 @@ import com.coderef.delivery.domain.Authorities;
 @EnableAuthorizationServer
 public class AuthorizationServerConfiguration extends AuthorizationServerConfigurerAdapter {
 
+    @Autowired
+    DataSource dataSource;
+
+    @Autowired
+    @Qualifier("authenticationManagerBean")
+    private AuthenticationManager authenticationManager;
+
     private static PasswordEncoder encoder;
 
     @Value("${security.oauth2.client.client-id}")
@@ -43,13 +50,6 @@ public class AuthorizationServerConfiguration extends AuthorizationServerConfigu
     @Value("${security.oauth2.client.access-token-validity-seconds}")
     private Integer accessTokenValiditySeconds;
 
-    @Autowired
-    DataSource dataSource;
-
-    @Autowired
-    @Qualifier("authenticationManagerBean")
-    private AuthenticationManager authenticationManager;
-
 
     @Bean
     public JdbcTokenStore tokenStore() {
@@ -57,7 +57,7 @@ public class AuthorizationServerConfiguration extends AuthorizationServerConfigu
     }
 
     /**
-     * Define o gerenciador de autenticação do AuthorizationEndpoint
+     * Define o gerenciador de autenticação do (AuthorizationEndpoint)
      * @param endpoints
      * @throws Exception
      */
@@ -81,6 +81,7 @@ public class AuthorizationServerConfiguration extends AuthorizationServerConfigu
                 .scopes(scopes)
                 .secret(secret)
                 .accessTokenValiditySeconds(accessTokenValiditySeconds);
+
     }
 
     @Bean

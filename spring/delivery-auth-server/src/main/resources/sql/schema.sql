@@ -1,10 +1,10 @@
-CREATE TABLE IF NOT EXISTS user (
+CREATE TABLE user (
   username VARCHAR(50) NOT NULL PRIMARY KEY,
-  email VARCHAR(5 0),
-  password VARCHAR(500),
-  activated BOOLEAN DEFAULT FALSE,
-  activationkey VARCHAR(50) DEFAULT NULL,
-  resetpasswordkey VARCHAR(50) DEFAULT NULL
+  email VARCHAR(50),
+  password VARCHAR(50),
+  activated BOOLEAN ,
+  activationkey VARCHAR(50) ,
+  resetpasswordkey VARCHAR(50)
 );
 
 CREATE TABLE IF NOT EXISTS authority (
